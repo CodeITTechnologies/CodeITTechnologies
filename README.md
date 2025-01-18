@@ -1,10 +1,10 @@
 <h2 align="left">Welcome to Code IT Technologies</h2>
 
 ###
-<h3>Frontend Development Courses</h3>
-<b>React JS</b>: Learn the fundamentals of React, including component-based architecture, state management, hooks, and advanced topics like Redux and Context API to build modern, responsive user interfaces.
-<b>Angular JS</b>: Master Angular JS to develop dynamic web applications with two-way data binding, dependency injection, and robust MVC architecture.
-<b>JavaScript ES6</b>: Enhance your JavaScript skills with the latest ECMAScript 6 features such as arrow functions, destructuring, modules, and promises.
+<h3>Frontend Development Courses</h3><br />
+<b>React JS</b>: Learn the fundamentals of React, including component-based architecture, state management, hooks, and advanced topics like Redux and Context API to build modern, responsive user interfaces.<br />
+<b>Angular JS</b>: Master Angular JS to develop dynamic web applications with two-way data binding, dependency injection, and robust MVC architecture.<br />
+<b>JavaScript ES6</b>: Enhance your JavaScript skills with the latest ECMAScript 6 features such as arrow functions, destructuring, modules, and promises.<br />
 
 ###
 
