@@ -1,16 +1,14 @@
 <h2 align="left">Welcome to Code IT Technologies</h2>
 
 ###
-:rocket:
- <h3>Frontend Development Courses</h3><br />
+:rocket: <h3>Frontend Development Courses</h3><br />
 <b>React JS</b>: Learn the fundamentals of React, including component-based architecture, state management, hooks, and advanced topics like Redux and Context API to build modern, responsive user interfaces.<br />
 <b>Angular JS</b>: Master Angular JS to develop dynamic web applications with two-way data binding, dependency injection, and robust MVC architecture.<br />
 <b>JavaScript ES6</b>: Enhance your JavaScript skills with the latest ECMAScript 6 features such as arrow functions, destructuring, modules, and promises.<br />
 
 ###
 
-:rocket:
-<h3>Backend Development Courses</h3>
+:rocket:<h3>Backend Development Courses</h3>
 <b>Node JS</b>: Dive into server-side JavaScript with Node.js. Build scalable, efficient backend services and REST APIs using Express.js.<br />
 <b>GraphQL</b>: Understand the next-generation API technology to fetch only the data you need, improving application performance and flexibility.<br />
 <b>Python</b>: Gain expertise in Python programming for web development, data analysis, automation, and artificial intelligence.<br />
@@ -18,27 +16,23 @@
 
 ###
 
-:rocket:
-<h3>Full Stack Development</h3>
+:rocket:<h3>Full Stack Development</h3>
 <b>MERN Stack</b>: Become a full-stack developer by mastering MongoDB, Express, React, and Node.js, enabling you to build end-to-end web applications.<br />
 <b>MEAN Stack</b>: Learn to develop robust web solutions with MongoDB, Express, Angular, and Node.js.<br />
 
-:rocket:
-<h3>Database Management</h3>
+:rocket:<h3>Database Management</h3>
 <b>MongoDB</b>: Explore the NoSQL database that's perfect for modern web applications, with a focus on performance and scalability.<br />
 <b>MySQL</b>: Understand relational databases and gain hands-on experience with MySQL for managing structured data efficiently.<br />
 
 ###
 
-:rocket:
-<h3>Other Courses</h3>
+:rocket:<h3>Other Courses</h3>
 <b>Java</b>: Master Java programming for building desktop, mobile, and enterprise-level applications. <br />
 <b>.NET Core</b>: Build dynamic, scalable, and secure applications using the modern .NET Core framework. <br />
 
 ###
 
-:rocket:
-<h3>Why Choose Code IT Technologies?</h3><br />
+:rocket:<h3>Why Choose Code IT Technologies?</h3><br />
 :tada:
 <b>Experienced Instructors</b>: Learn from industry experts with hands-on experience.<br />
 :tada:
@@ -52,8 +46,7 @@ Start your journey towards tech excellence with Code IT Technologies today!
 
 ###
 
-:thumbsup:
-<h2 align="left">Offering Courses</h2>
+:thumbsup:<h2 align="left">Offering Courses</h2>
 
 ###
 
