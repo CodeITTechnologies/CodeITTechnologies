@@ -1,4 +1,34 @@
 <h2 align="left">Welcome to Code IT Technologies</h2>
+###
+<p>
+  Code IT Technologies - Course Offerings
+At Code IT Technologies, we provide a wide range of professional IT courses designed to empower you with cutting-edge skills and knowledge for a successful career in technology. Whether you're a beginner or an experienced developer, our expert-led training programs cater to various levels of proficiency.
+
+Frontend Development Courses
+React JS: Learn the fundamentals of React, including component-based architecture, state management, hooks, and advanced topics like Redux and Context API to build modern, responsive user interfaces.
+Angular JS: Master Angular JS to develop dynamic web applications with two-way data binding, dependency injection, and robust MVC architecture.
+JavaScript ES6: Enhance your JavaScript skills with the latest ECMAScript 6 features such as arrow functions, destructuring, modules, and promises.
+Backend Development Courses
+Node JS: Dive into server-side JavaScript with Node.js. Build scalable, efficient backend services and REST APIs using Express.js.
+GraphQL: Understand the next-generation API technology to fetch only the data you need, improving application performance and flexibility.
+Python: Gain expertise in Python programming for web development, data analysis, automation, and artificial intelligence.
+Dot Net Core: Learn to create high-performance, scalable web applications using Microsoft's modern .NET Core framework.
+Full Stack Development
+MERN Stack: Become a full-stack developer by mastering MongoDB, Express, React, and Node.js, enabling you to build end-to-end web applications.
+MEAN Stack: Learn to develop robust web solutions with MongoDB, Express, Angular, and Node.js.
+Database Management
+MongoDB: Explore the NoSQL database that's perfect for modern web applications, with a focus on performance and scalability.
+MySQL: Understand relational databases and gain hands-on experience with MySQL for managing structured data efficiently.
+Other Courses
+Java: Master Java programming for building desktop, mobile, and enterprise-level applications.
+.NET Core: Build dynamic, scalable, and secure applications using the modern .NET Core framework.
+Why Choose Code IT Technologies?
+Experienced Instructors: Learn from industry experts with hands-on experience.
+Practical Training: Get hands-on practice through real-world projects and case studies.
+Flexible Learning: Choose from online and offline training options to suit your schedule.
+Career Support: Access placement assistance and guidance to achieve your career goals.
+Start your journey towards tech excellence with Code IT Technologies today!
+</p>
 
 ###
 
