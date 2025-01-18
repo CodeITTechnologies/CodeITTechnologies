@@ -42,7 +42,7 @@ Start your journey towards tech excellence with Code IT Technologies today!
 
 ###
 
-<p align="left">Offering Courses</p>
+<h2 align="left">Offering Courses</h2>
 
 ###
 
@@ -144,27 +144,3 @@ Start your journey towards tech excellence with Code IT Technologies today!
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
