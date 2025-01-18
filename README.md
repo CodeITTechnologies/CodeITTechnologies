@@ -32,12 +32,12 @@
 
 ###
 
-<h3>Why Choose Code IT Technologies?</h3>
+<h3>Why Choose Code IT Technologies?</h3><br />
 <b>Experienced Instructors</b>: Learn from industry experts with hands-on experience.<br />
 <b>Practical Training</b>: Get hands-on practice through real-world projects and case studies.<br />
 <b>Flexible Learning</b>: Choose from online and offline training options to suit your schedule.<br />
 <b>Career Support</b>: Access placement assistance and guidance to achieve your career goals.<br />
-
+<br />
 Start your journey towards tech excellence with Code IT Technologies today!
 
 ###
