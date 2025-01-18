@@ -8,6 +8,40 @@
 
 ###
 
+<h3>Backend Development Courses</h3>
+<b>Node JS</b>: Dive into server-side JavaScript with Node.js. Build scalable, efficient backend services and REST APIs using Express.js.<br />
+<b>GraphQL</b>: Understand the next-generation API technology to fetch only the data you need, improving application performance and flexibility.<br />
+<b>Python</b>: Gain expertise in Python programming for web development, data analysis, automation, and artificial intelligence.<br />
+<b>Dot Net Core</b>: Learn to create high-performance, scalable web applications using Microsoft's modern .NET Core framework. <br />
+
+###
+
+<h3>Full Stack Development</h3>
+<b>MERN Stack</b>: Become a full-stack developer by mastering MongoDB, Express, React, and Node.js, enabling you to build end-to-end web applications.<br />
+<b>MEAN Stack</b>: Learn to develop robust web solutions with MongoDB, Express, Angular, and Node.js.<br />
+
+<h3>Database Management</h3>
+<b>MongoDB</b>: Explore the NoSQL database that's perfect for modern web applications, with a focus on performance and scalability.<br />
+<b>MySQL</b>: Understand relational databases and gain hands-on experience with MySQL for managing structured data efficiently.<br />
+
+###
+
+<h3>Other Courses</h3>
+<b>Java</b>: Master Java programming for building desktop, mobile, and enterprise-level applications. <br />
+<b>.NET Core</b>: Build dynamic, scalable, and secure applications using the modern .NET Core framework. <br />
+
+###
+
+<h3>Why Choose Code IT Technologies?</h3>
+<b>Experienced Instructors</b>: Learn from industry experts with hands-on experience.<br />
+<b>Practical Training</b>: Get hands-on practice through real-world projects and case studies.<br />
+<b>Flexible Learning</b>: Choose from online and offline training options to suit your schedule.<br />
+<b>Career Support</b>: Access placement assistance and guidance to achieve your career goals.<br />
+
+Start your journey towards tech excellence with Code IT Technologies today!
+
+###
+
 <p align="left">Offering Courses</p>
 
 ###
