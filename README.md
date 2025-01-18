@@ -4,10 +4,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeITTechnologies.CodeITTechnologies&"  />
-</div>
-
 ###
 
 <p align="left">Offering Courses</p>
